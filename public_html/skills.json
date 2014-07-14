@@ -1,0 +1,640 @@
+{
+    "Languages": [
+        {
+            "skills": "PHP (PHP Hypertext Preprocessor)",
+            "experienceInYears": 8,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "ASP.NET (C#)",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "HTML (HyperText Markup Language)",
+            "experienceInYears": 13,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "CSS (Cascading Style Sheets)",
+            "experienceInYears": 13,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "JavaScript",
+            "experienceInYears": 6,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "ASP Classic (Active Server Pages)",
+            "experienceInYears": 3,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2002
+        },
+        {
+            "skills": "Java (Andriod App Development)",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 10,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "Objective C (IOS App Development)",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 10,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "JSP (JavaServer Pages)",
+            "experienceInYears": 2,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2002
+        },
+        {
+            "skills": "Java Servelets",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2000
+        },
+        {
+            "skills": "Java",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "XML (Extensible Markup Language)",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "XSL (EXtensible Stylesheet Language)",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Visual Basic",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2002
+        },
+        {
+            "skills": "C++",
+            "experienceInYears": 3,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2000
+        },
+        {
+            "skills": "WML (Wireless Markup Language)",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2004
+        },
+        {
+            "skills": "UML (Unified Modeling Language)",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        }
+    ],
+    "Frameworks": [
+        {
+            "skills": "Zend Framework",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Bootstrap",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "JQuery",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "AngularJS",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "BluePrint",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2010
+        },
+        {
+            "skills": "cssLess",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 20,
+            "lastUsedYear": 2011
+        },
+        {
+            "skills": "Smarty Template Engine",
+            "experienceInYears": 2,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "PHP Unit (Testing Framework)",
+            "experienceInYears": 2,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Doctrine ORM (Object Relation Mapping)",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "PHP PDO",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Ajax Push (Comet, APE)",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2010
+        }
+    ],
+    "Database": [
+        {
+            "skills": "SQL Server",
+            "experienceInYears": 6,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Firebase",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 20,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "MySQL",
+            "experienceInYears": 8,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Oracle",
+            "experienceInYears": 2,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2008
+        },
+        {
+            "skills": "MS Access",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2001
+        },
+        {
+            "skills": "SQLite",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2013
+        }
+    ],
+    "Plateforms": [
+        {
+            "skills": "Linux (Centos, Suse, Ubuntu)",
+            "experienceInYears": 8,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Mac",
+            "experienceInYears": 6,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Windows",
+            "experienceInYears": 20,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        }
+    ],
+    "ConceptsMethodoligies": [
+        {
+            "skills": "Object Oriented Programing (OOP)",
+            "experienceInYears": 13,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Service Oriented Architecture (SOA)",
+            "experienceInYears": 5,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Model View Controller (MVC)",
+            "experienceInYears": 6,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Relational Database Design",
+            "experienceInYears": 13,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Asynchronous JavaScript and XML (Ajax)",
+            "experienceInYears": 7,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Content Manage System (CMS)",
+            "experienceInYears": 7,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Customer Relation Management System (CRMS)",
+            "experienceInYears": 8,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Enterprise Resourse Planning (ERP)",
+            "experienceInYears": 10,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "Object Relational Mapping (ORM)",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Test Driven Development (TDD)",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "JavaScript Object Notation (JSON)",
+            "experienceInYears": 3,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Systems development life cycle (SDLC)",
+            "experienceInYears": 10,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Requirement gathering and analysis",
+            "experienceInYears": 12,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Architecture and Design",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Software Engineering Concepts",
+            "experienceInYears": 5,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Entity Relationship Model (ER model)",
+            "experienceInYears": 7,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Representational state transfer (REST)",
+            "experienceInYears": 4,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Simple Object Access Protocol (SOAP)",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Rapid Application Development",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "Agile development methodologies (SCRUM)",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Search Engine Optimization (SEO)",
+            "experienceInYears": 8,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Responsive web design",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "User Interface (UI) and User Experience (UX)",
+            "experienceInYears": "-",
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        }
+    ],
+    "SoftwareTools": [
+        {
+            "skills": "Dreamweaver",
+            "experienceInYears": 4,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "Photoshop",
+            "experienceInYears": 5,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Coreldraw",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Illustrator",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2011
+        },
+        {
+            "skills": "Fireworks",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2007
+        },
+        {
+            "skills": "Eclips",
+            "experienceInYears": 3,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2009
+        },
+        {
+            "skills": "Netbeans",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Visual Studio",
+            "experienceInYears": 6,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Zend Studio",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2011
+        },
+        {
+            "skills": "TortoiseSVN",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 20,
+            "lastUsedYear": 2010
+        },
+        {
+            "skills": "Subversion",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 20,
+            "lastUsedYear": 2006
+        },
+        {
+            "skills": "Git",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "MySQL Workbench",
+            "experienceInYears": 4,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "SQLyog",
+            "experienceInYears": 4,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Plesk",
+            "experienceInYears": 6,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "cPanel/WHM",
+            "experienceInYears": 6,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Virtualmin",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "phpMyAdmin",
+            "experienceInYears": 8,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Google Apps",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Webmaster Tools (Google, Bing)",
+            "experienceInYears": 3,
+            "ratingOutOf5": 50,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Nominet Online Services",
+            "experienceInYears": 4,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Toad",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "Google Analytics",
+            "experienceInYears": 3,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Google Adwords",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "Erwin 2.0",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2009
+        },
+        {
+            "skills": "Crystal Reports",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2006
+        },
+        {
+            "skills": "Vi/Vim",
+            "experienceInYears": 2,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "SourceSafe",
+            "experienceInYears": 2,
+            "ratingOutOf5": 20,
+            "lastUsedYear": 2004
+        },
+        {
+            "skills": "Doxygen",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2009
+        },
+        {
+            "skills": "Acme Studio",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2009
+        },
+        {
+            "skills": "ArgoUML",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2009
+        },
+        {
+            "skills": "Visio",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        },
+        {
+            "skills": "Ms-Project",
+            "experienceInYears": 2,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2013
+        }
+    ],
+    "CMSEcommerce": [
+        {
+            "skills": "Wordpress",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Drupal",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2012
+        },
+        {
+            "skills": "Joomla",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2010
+        },
+        {
+            "skills": "Mambo",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2010
+        },
+        {
+            "skills": "CS Cart",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "OpenCart",
+            "experienceInYears": 3,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2014
+        },
+        {
+            "skills": "Magento",
+            "experienceInYears": 1,
+            "ratingOutOf5": 40,
+            "lastUsedYear": 2011
+        },
+        {
+            "skills": "osCommerce",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2010
+        },
+        {
+            "skills": "ZenCart",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2010
+        },
+        {
+            "skills": "Virtual Mart",
+            "experienceInYears": 1,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2010
+        },
+        {
+            "skills": "phpBB        ",
+            "experienceInYears": 0.5,
+            "ratingOutOf5": 30,
+            "lastUsedYear": 2010
+        }
+    ]
+}

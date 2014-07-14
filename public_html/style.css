@@ -1,0 +1,26 @@
+/*style.css*/
+.gridStyle {
+    border: 1px solid rgb(212,212,212);
+    width: 700px; 
+    height: 500px
+}
+
+
+span.stars {	
+	display:block;
+	height:17px;
+	width:100px;
+	background:url("/images/sprite-stars200.png") no-repeat 10px 10px;	
+	}
+	
+span.stars50 { background-position: -7px -176px; }
+span.stars45 { background-position: -7px -158px; }
+span.stars40 { background-position: -7px -142px; }
+span.stars35 { background-position: -7px -126px; }
+span.stars30 { background-position: -7px -109px; }
+span.stars25 { background-position: -7px -92px; }
+span.stars20 { background-position: -7px -75px; }
+span.stars15 { background-position: -7px -58px; }
+span.stars10 { background-position: -7px -41px; }
+span.stars5 { background-position: -7px -24px; }
+span.stars0 { background-position: -7px -7px; }
